@@ -1,0 +1,12 @@
+ex4-1   七段顯示器顯示4位數亂數
+sketch_apr20a   七段顯示器顯示4位數
+sketch_apr06a   按鈕一按LED明滅
+sketch_apr06b   共陽極七段顯示器
+sketch_apr27b   可變電阻彩色LED
+sketch_apr27c   彩色LED
+sketch_apr27d   按鍵控制亮度
+sketch_apr13b   七段顯示器輪流顯示
+sketch_apr13c   七段顯示器輪流顯示可控制速度
+sketch_apr13d   亂數產生七段顯示器可控制速度
+sketch_mar23a   序列埠輸入接收
+sketch_mar23b   猜數字
